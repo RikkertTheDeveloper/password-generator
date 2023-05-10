@@ -17,4 +17,3 @@
 <p align="center">To server the final application, simply run the command <code>npm i</code> in order to install all packages, and run <code>npm run dev</code></p>
 
 <p align="center" style="color:#ff7300; font-weight:bold; font-size:12px">To build to application for the web, simply run <code>npm run build</code> in order to build the application, and run <code>npm run preview</code> to see the final build.</p>
-
