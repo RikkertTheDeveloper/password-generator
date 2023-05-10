@@ -1,5 +1,5 @@
 {
-    "name": "Password Generator",
+    "name": "password-generator",
     "author": {"name": "Rick Arendsen", "url": "https://rickarendsen.nl/"},
     "version": "1.0.1",
     "repository": {"url": "https://github.com/RikkertTheDeveloper/password-generator"},
